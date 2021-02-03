@@ -1,0 +1,46 @@
+body {
+  background-color: #85929E;
+  font-family: monospace;
+  font-size: medium;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #EDBB99;
+}
+#image {
+  max-width: 30%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+#img-caption {
+  text-align: center;
+  color: #F6DDCC;
+  font-size: 15px;
+}
+#tribute-info {
+  text-align: center;
+  margin-top: 0cm;
+  color: #F6DDCC;
+  font-size: 15px;
+}
+h2 {
+  color: #EDBB99;
+}
+#time-line-list {
+  color: #ffffff;
+  font-size: 15px;
+}
+time {
+  color: #EDBB99;
+}
+#tribute {
+  color: #F6DDCC;
+  font-size: 15px;
+}
+footer {
+  color: #F6DDCC;
+}
